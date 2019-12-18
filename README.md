@@ -6,7 +6,7 @@ steps to configure:
 1. pull the code to your machine
 2. run ```npm install```
 
-### steps to run mongoDB
+### Steps to run mongoDB
 ----
 - install mongoDB
 - create a data-directory for mongo in your preferable location
@@ -14,7 +14,7 @@ steps to configure:
 - goto the location of the mongo server installed
 - run ```path\to\mongo\...\bin\mongod.exe --dbpath=\path\to\...\mongodb-data\```
 
-### configure postman
+### Configure postman
 ----
 - download and install postman
 - create 1 environment - ```Notes API Dev```
